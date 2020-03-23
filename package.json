@@ -1,0 +1,22 @@
+{
+  "name": "flex-gallery",
+  "version": "1.0.0",
+  "description": "flexible responsive justified image gallery with CSS and jQuery",
+  "main": "dist/flex-gallery.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarikwest/flex-gallery.git"
+  },
+  "author": "elvisyjlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarikwest/flex-gallery/issues"
+  },
+  "homepage": "https://github.com/yarikwest/flex-gallery#readme"
+}
